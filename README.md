@@ -4,17 +4,18 @@
 
 ### 폴더구성
 퀘스트별 폴더 구조 예시:
-AIFFEL QUEST
-|--Exploration
-|  |--Quest1
-|  |  |--.ipynb
-|  |  |--README.md
-|  |--Quest2
-|  |... (Quest1과 동일한 구조)
-|GoingDeeper
-|... (Exploration과 동일한 구조)
-|MainQuest
-|... (Exploration과 동일한 구조)
+
+- AIFFEL QUEST
+- |--Exploration
+- |  |--Quest1
+- |  |  |--.ipynb
+- |  |  |--README.md
+- |  |--Quest2
+- |  |... (Quest1과 동일한 구조)
+- |GoingDeeper
+- |... (Exploration과 동일한 구조)
+- |MainQuest
+- |... (Exploration과 동일한 구조)
 
 
 
